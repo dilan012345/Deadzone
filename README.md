@@ -1,3 +1,14 @@
+
+
+
+
+pausing development on this app as android kills the current gesture (and therefore ending the pen stroke) when your palm is placed on the screen, I cannot think of a solution to maintain pointer tracking after ACTION_CANCEL occurs
+
+
+
+
+
+
 ## Jot
 
 Jot is inspired heavily by Google's Material 3 expressive UI concepts
