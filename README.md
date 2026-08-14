@@ -7,7 +7,8 @@
 Following commands required utilise palm rejection:
 `adb shell settings put system surface_palm_touch 0`<br>
 `adb shell settings put system surface_palm_swipe 0`<br>
-`adb shell device_config put input_native_boot palm_rejection_enabled false`
+`adb shell device_config put input_native_boot palm_rejection_enabled false` <br>
+`adb shell device_config put input com.android.input.flags.report_palms_to_gestures_library false `
 
 Plan to use shizuku to simplify process
 
