@@ -10,6 +10,9 @@
 > pointer tracking after ACTION_CANCEL 
 > occurs
 
+adb shell settings put system surface_palm_touch 0 
+adb shell settings put system surface_palm_swipe 0 
+
 
 
 
