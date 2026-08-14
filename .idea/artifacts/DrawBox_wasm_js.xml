@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrawBox-wasm-js">
+    <output-path>$PROJECT_DIR$/DrawBox/DrawBox/build/libs</output-path>
+    <root id="archive" name="DrawBox-wasm-js.jar">
+      <element id="module-output" name="DrawBoxSample.DrawBox.wasmJsMain" />
+    </root>
+  </artifact>
+</component>

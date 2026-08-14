@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="drawbox-ui">
+    <output-path>$PROJECT_DIR$/DrawBox/drawbox-ui/build/libs</output-path>
+    <root id="archive" name="drawbox-ui.jar">
+      <element id="module-output" name="DrawBoxSample.drawbox-ui.androidMain" />
+    </root>
+  </artifact>
+</component>

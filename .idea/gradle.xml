@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/DrawBox" name="DrawBoxSample">
+                <projects>
+                  <project path="$PROJECT_DIR$/DrawBox" />
+                  <project path="$PROJECT_DIR$/DrawBox/DrawBox" />
+                  <project path="$PROJECT_DIR$/DrawBox/androidApp" />
+                  <project path="$PROJECT_DIR$/DrawBox/desktopApp" />
+                  <project path="$PROJECT_DIR$/DrawBox/drawbox-ui" />
+                  <project path="$PROJECT_DIR$/DrawBox/shared" />
+                  <project path="$PROJECT_DIR$/DrawBox/webApp" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DrawBox" />
+            <option value="$PROJECT_DIR$/DrawBox/DrawBox" />
+            <option value="$PROJECT_DIR$/DrawBox/androidApp" />
+            <option value="$PROJECT_DIR$/DrawBox/desktopApp" />
+            <option value="$PROJECT_DIR$/DrawBox/drawbox-ui" />
+            <option value="$PROJECT_DIR$/DrawBox/shared" />
+            <option value="$PROJECT_DIR$/DrawBox/webApp" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

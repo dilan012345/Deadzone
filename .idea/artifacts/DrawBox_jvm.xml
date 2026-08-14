@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrawBox-jvm">
+    <output-path>$PROJECT_DIR$/DrawBox/DrawBox/build/libs</output-path>
+    <root id="archive" name="DrawBox-jvm.jar">
+      <element id="module-output" name="DrawBoxSample.DrawBox.jvmMain" />
+    </root>
+  </artifact>
+</component>
