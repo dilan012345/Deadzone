@@ -4,7 +4,7 @@
 > [!CAUTION]
 > Avoid commands if your device has EMR or active stylus digitiser hardware (e.g. S Pen).
 
-Following commands required utilise palm rejection:
+Following commands required utilise palm rejection: <br>
 `adb shell settings put system surface_palm_touch 0`<br>
 `adb shell settings put system surface_palm_swipe 0`<br>
 `adb shell device_config put input_native_boot palm_rejection_enabled false` <br>
