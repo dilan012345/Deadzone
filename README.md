@@ -4,9 +4,11 @@ Following commands required utilise palm rejection:
 > [!CAUTION]
 > AVOID USE IF YOUR DEVICE HAS AN EMR OR ACTIVE STYLUS DIGITISER HARDWARE (i.e S-PEN)
 
+`
 adb shell settings put system surface_palm_touch 0 <br>
 adb shell settings put system surface_palm_swipe 0 <br>
 adb shell device_config put input_native_boot palm_rejection_enabled false<br>
+`
 
 Plan to use shizuku to simpllify process
 
