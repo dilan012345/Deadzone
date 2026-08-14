@@ -18,7 +18,7 @@ Plan to use shizuku to simplify process
 
 
 
-## Jot
+## Freehand
 
 
 It utilises a fork of DrawBox with support for custom `BackgroundPattern`, replacing the default background with a custom one through a simple `Painter` resource.
