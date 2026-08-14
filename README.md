@@ -5,6 +5,10 @@
 
 ## Deadzone
 
+Jot is now Deadzone
+
+
+Deadzone is an infinite whiteboard app with a deadzone to rest your palm
 
 It utilises a fork of DrawBox with support for custom `BackgroundPattern`, replacing the default background with a custom one through a simple `Painter` resource.
 (Not in use for current purposes - will either migrate away from drawbox or significantly redevelop drawbox) 
