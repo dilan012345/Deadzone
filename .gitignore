@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+global.txt
+secure.txt
+system.txt
+input.txt
