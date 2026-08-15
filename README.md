@@ -3,9 +3,9 @@
 
 
 
-## Deadzone
+## VectorLabs 
 
-Jot is now Deadzone
+Jot is now VectorLabs 
 
 
 Deadzone is an infinite whiteboard app with a deadzone to rest your palm
