@@ -7,8 +7,23 @@
 
 Jot is now VectorLabs 
 
+> [!IMPORTANT]
+> VectorLabs will require `Shizuku` to be installed
+> [DOWNLOAD SHIZUKU](
+https://www.google.com/url?q=https://play.google.com/store/apps/details/Shizuku%3Fid%3Dmoe.shizuku.privileged.api%26hl%3Den_GB&sa=U&ved=2ahUKEwicocH4kaOWAxWsQkEAHQ4yLsMQFnoECCQQAQ&usg=AOvVaw2j0NOjPhFKOARkRpJd5bJr)
 
-Deadzone is an infinite whiteboard app with a deadzone to rest your palm
+
+This project got severely more complicated than I initially anticipated, currently a form of palm rejection is working, 
+
+Left to do:
+UI 
+drawbox palm rejection implementation 
+path (currently uses dots, yet a normal canvas path cannot reliably end the stroke when the palm is on)
+
+
+
+
+VectorLabs is an infinite whiteboard app with a deadzone to rest your palm
 
 It utilises a fork of DrawBox with support for custom `BackgroundPattern`, replacing the default background with a custom one through a simple `Painter` resource.
 (Not in use for current purposes - will either migrate away from drawbox or significantly redevelop drawbox) 
