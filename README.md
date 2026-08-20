@@ -1,6 +1,6 @@
 <h1>Vectoid: Infinite canvas app </h1>
-### An android Procreate alternative 
-Palm rejection currently unavailable publicly
+<h3>An android Procreate alternative 
+Palm rejection currently unavailable publicly</h3>
 
 > [!IMPORTANT]
 > VectorLabs will require `Shizuku` to be installed
