@@ -2,10 +2,13 @@
 <h3>An android Procreate alternative </h3>
 Palm rejection currently unavailable publicly
 <br>
+<br>
+
 > [!IMPORTANT]
 > Vectoid will require `Shizuku` to be installed
 > [DOWNLOAD SHIZUKU](
 https://www.google.com/url?q=https://play.google.com/store/apps/details/Shizuku%3Fid%3Dmoe.shizuku.privileged.api%26hl%3Den_GB&sa=U&ved=2ahUKEwicocH4kaOWAxWsQkEAHQ4yLsMQFnoECCQQAQ&usg=AOvVaw2j0NOjPhFKOARkRpJd5bJr)
+> 
 <br>
 
 This project got severely more complicated than I initially anticipated, currently a form of palm rejection is working, 
