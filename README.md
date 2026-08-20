@@ -1,11 +1,7 @@
 
-
-
-
-
 ## VectorLabs 
 
-Jot is now VectorLabs 
+Palm rejection currently unavailable publicly
 
 > [!IMPORTANT]
 > VectorLabs will require `Shizuku` to be installed
@@ -50,6 +46,6 @@ ocasssionally resets so will have to think of alternative or a script
 Plan to use shizuku to simplify process
 
 ### Screenshots
-
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e44e297e-c3fe-4f10-8343-8745d2094b01" />
 
 Made with Jetpack Compose
