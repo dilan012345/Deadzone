@@ -1,6 +1,5 @@
-
-## VectorLabs 
-
+<h1>Vectoid: Infinite canvas app </h1>
+### An android Procreate alternative 
 Palm rejection currently unavailable publicly
 
 > [!IMPORTANT]
