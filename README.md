@@ -32,9 +32,8 @@ Following commands required utilise palm rejection:
 <code>adb shell settings put system surface_palm_touch 0</code><br>
 <code>adb shell settings put system surface_palm_swipe 0</code><br>
 <code>adb shell device_config put input_native_boot palm_rejection_enabled false</code><br>
-<code>adb shell device_config put input com.android.input.flags.report_palms_to_gestures_library false</code>
+<code>adb shell device_config put input com.android.input.flags.report_palms_to_gestures_library false</code><br>
 <br>
-
 Ocasssionally resets so will have to think of alternative or a script
 
 <br>
