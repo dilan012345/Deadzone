@@ -27,11 +27,12 @@ Fork: https://github.com/dilan012345/DrawBox
 > [!CAUTION]
 > Avoid commands if your device has EMR or active stylus digitiser hardware (e.g. S Pen).
 <br>
-Following commands required utilise palm rejection: 
-<br>`adb shell settings put system surface_palm_touch 0`<br>
+Following commands required utilise palm rejection:
+<br>
+`adb shell settings put system surface_palm_touch 0`<br>
 `adb shell settings put system surface_palm_swipe 0`<br>
 `adb shell device_config put input_native_boot palm_rejection_enabled false` <br>
-`adb shell device_config put input com.android.input.flags.report_palms_to_gestures_library false `
+`adb shell device_config put input com.android.input.flags.report_palms_to_gestures_library false ` <br>
 
 
 ocasssionally resets so will have to think of alternative or a script
@@ -41,5 +42,6 @@ Plan to use shizuku to simplify process
 <h2> Screenshots </h2>
 <img width="1920" height="1200" alt="Screenshot of drawing" src="https://github.com/user-attachments/assets/e44e297e-c3fe-4f10-8343-8745d2094b01" />
 
+<br>
 <br>
 Made with Jetpack Compose
